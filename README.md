@@ -99,7 +99,7 @@ First , the tools/services were divided into 10 categories, almost a decathlon!
     
     Winner: GitHub actions
 
-    Obs: Not the most complete tool here, but let's say it's a KISS philosophy and if you think pipelines are commodities, simplicity helps. 
+    Obs: Not the most complete tool here, but let's say it's a [KISS principle](https://en.wikipedia.org/wiki/KISS_principle) and if you think pipelines are commodities, simplicity helps. 
 
 
 * 8-GitOps (CD):
