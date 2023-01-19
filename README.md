@@ -53,7 +53,7 @@ First , the tools/services were divided into 10 categories, almost a decathlon!
 
     Winner: cdk8s
 
-    Obs: I must confess besides Helm, I was not caring too much for other tools, and again I like a lot the choice for the same reason of previous winner: code. One more place to use Python. PS: I'm not a great Python fan. But as for sometime now my main goal is to have things working, I inverted my priorities. First: Running, working. After: try to make it work with something else "superior" or "elegant".[QDOS](https://youtu.be/R2Qh0O3Dt10) model!
+    Obs: I must confess besides Helm, I was not caring too much for other tools, and again I like a lot the choice for the same reason of previous winner: code. One more place to use Python. PS: I'm not a great Python fan. But as for sometime now my main goal is to have things working, I inverted my priorities. First: Running, working. After: try to make it work with something else "superior" or "elegant". [QDOS](https://pt.wikipedia.org/wiki/86-DOS) model!
     
 * 4-App Management - Kubernetes Operators:
     
