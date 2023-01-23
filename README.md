@@ -25,7 +25,7 @@ First , the tools/services were divided into 10 categories, almost a decathlon!
     * [DigitalOcean](https://digitalocean.com) 
     * [Vultr](https://vultur.com) 
     * [Civo](https://civo.com) - [Video Review](https://www.youtube.com/watch?v=SwOIlzXLIw4&t=0s)
-    * [Scaleaway](https://scaleaway.com) - [Video Review](https://www.youtube.com/watch?v=VlBiLFaSi7Y&t=0s)
+    * [Scaleaway](https://scaleway.com/) - [Video Review](https://www.youtube.com/watch?v=VlBiLFaSi7Y&t=0s)
 
     Winner : Civo. 
     
